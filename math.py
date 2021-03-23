@@ -16,3 +16,7 @@ def mul(x,y):
 #Divide Implementation    
 def div(x,y):
 	return x/y
+    
+#Square Implementation
+def square(x):
+    return x*x
